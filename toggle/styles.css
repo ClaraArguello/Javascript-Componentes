@@ -1,0 +1,43 @@
+body {
+	background: #eee;
+	font-family: helvetica, arial, sans-serif;
+	text-align: center;
+	padding: 4em;
+}
+
+a {
+	text-decoration: none;
+}
+
+nav {
+	display: block;
+	margin-bottom: 3em;
+}
+
+nav li {
+	font-weight: bold;
+	display: inline-block;
+}
+
+nav a {
+	background-color: #3d0066;
+	color: #fff;
+	padding: 1em;
+}
+
+a{
+    color: #000;
+}
+
+.dark-theme{
+    background-color: #222222;
+}
+
+.dark-theme a{
+    color: #fff;
+}
+
+.dark-theme nav a{
+    background-color: #9f35e6;
+    color: #000;
+}
